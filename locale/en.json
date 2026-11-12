@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Agent preset text",
+    "description": "Takes over the displayed names and descriptions of built-in and third-party Agent presets by language, current text, plugin and workspace conditions, without modifying the presets."
+  }
+}

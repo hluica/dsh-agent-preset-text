@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-agent-preset-text
+      name: '@local/dsh-agent-preset-text'
